@@ -1,0 +1,551 @@
+
+Hlavní menu
+
+WikipedieWikipedie: Otevřená encyklopedie
+Hledat na Wikipedii
+Hledat
+Vytvoření účtu
+Přihlášení
+
+Osobní nástroje
+Obsah skrýt
+(úvod)
+Definice
+Historický přehled
+Přepnout podsekci Historický přehled
+Rozdělení filozofie
+Přepnout podsekci Rozdělení filozofie
+Metody filozofie
+Přepnout podsekci Metody filozofie
+Hlavní filozofické pozice
+Filozofové o filozofii
+Odkazy
+Přepnout podsekci Odkazy
+Filozofie
+
+Článek
+Diskuse
+Číst
+Editovat
+Editovat zdroj
+Zobrazit historii
+
+Nástroje
+Filozofie (ve stylově příznakové podobě také filosofie,[1] původem z řeckého φιλοσοφία, filosofía, „láska k moudrosti“) je systematické, racionální a kritické studium obecných a základních otázek, jako jsou otázky existence, rozumu, poznání, hodnot, mysli a jazyka.[2][3][4] Tyto otázky jsou často předkládány jako problémy, které je třeba studovat nebo řešit.[5][6] Některé prameny tvrdí, že termín pochází od Pythagora (asi 570 – asi 495 př. n. l.);[7] jiné tuto verzi zpochybňují[8][9] a tvrdí, že pythagorejci se pouze přihlásili k užívání již existujícího termínu.[10] Mezi filozofické metody patří kladení otázek, kritická diskuse, racionální argumentace a systematická prezentace.[11][pozn. 1]
+
+Historicky filozofie zahrnovala všechny soubory vědomostí a její praktik byl označován jako filozof. Od dob starořeckého filozofa Aristotela až do 19. století zahrnovala „přírodní filozofie“ astronomii, medicínu a fyziku.[12] Například Newtonovy Matematické principy přírodní filozofie z roku 1687 byly později klasifikovány jako kniha o fyzice. V 19. století vedl růst moderních výzkumných univerzit k profesionalizaci a specializaci akademické filozofie a dalších oborů,[13][14] od té doby se různé oblasti zkoumání, které byly tradičně součástí filozofie, staly samostatnými akademickými disciplínami, a to konkrétně společenskými vědami, jako je psychologie, sociologie, lingvistika a ekonomie.
+
+Dnes mezi hlavní podobory akademické filozofie patří metafyzika, která se zabývá základní povahou existence a reality, epistemologie, která studuje povahu poznání a víry, etika, která se zabývá morálními hodnotami, a logika, která studuje pravidla odvozování, jež umožňují vyvozovat závěry z pravdivých premis.[15][16] Mezi další významné podobory patří filozofie náboženství, filozofie vědy, politická filozofie, estetika, filozofie jazyka filozofie mysli a filozofie jistoty.
+
+Definice
+Panuje široká shoda na tom, že filozofie (ze starořeckého φίλος, phílos: „láska“; a σοφία, sophía: „moudrost“)[17] se vyznačuje různými obecnými rysy: je formou racionálního zkoumání, usiluje o systematičnost a má tendenci kriticky reflektovat své vlastní metody a předpoklady.[18][19][20] Přístupy, které jdou nad rámec těchto vágních charakteristik a podávají zajímavější či hlubší definici, jsou však obvykle rozporuplné.[19][20] Často jsou přijímány pouze teoretiky náležejícími k určitému filozofickému směru a jsou revizionistické v tom smyslu, že mnohé předpokládané části filozofie by si nezasloužily název „filozofie“, kdyby byly pravdivé. [21][22] Před novověkem se tento termín používal ve velmi širokém smyslu, který zahrnoval jednotlivé vědy, jako je fyzika nebo matematika, jako její dílčí disciplíny, ale současné užití je užší.[20][23][24]
+
+Některé přístupy tvrdí, že existuje soubor podstatných rysů, které jsou společné všem částem filozofie, zatímco jiné vidí pouze slabší příbuzenské podobnosti nebo tvrdí, že se jedná pouze o prázdný souhrnný pojem.[25][22][26] Některé definice charakterizují filozofii ve vztahu k její metodě, jako je čisté uvažování. Jiné se zaměřují spíše na její téma, například jako studium největších zákonitostí světa jako celku nebo jako snahu odpovědět na velké otázky.[22][27][28] Oba přístupy mají ten problém, že jsou obvykle buď příliš široké, protože zahrnují i nefilozofické disciplíny, nebo příliš úzké, protože vylučují některé filozofické podobory.[22] Mnohé definice filozofie zdůrazňují její úzký vztah k vědě.[20] V tomto smyslu je filozofie někdy chápána jako svébytná věda. Některé naturalistické přístupy například chápou filozofii jako empirickou, avšak velmi abstraktní vědu, která se namísto konkrétních pozorování zabývá velmi rozsáhlými empirickými zákonitostmi,[22][29] někteří fenomenologové naopak charakterizují filozofii jako vědu o podstatách.[21][30][31] Definice založené na vědě se obvykle potýkají s problémem, jak vysvětlit, proč filozofie ve své dlouhé historii nedosáhla takového pokroku, jaký je patrný u jiných věd.[22][32][33] Tomuto problému se vyhýbají tím, že filozofii považují za nezralou či provizorní vědu, jejíž dílčí disciplíny přestávají být filozofií, jakmile se plně rozvinou.[20][25][30] V tomto smyslu je filozofie porodní bábou věd.[20]
+
+Jiné definice se více zaměřují na kontrast mezi vědou a filozofií. Společným tématem mnoha takových definic je, že filozofie se zabývá významem, porozuměním nebo objasněním jazyka.[27][22] Podle jednoho názoru je filozofie pojmovou analýzou, která zahrnuje hledání nutných a postačujících podmínek pro použití pojmů. [28][22][34] Jiný přístup definuje filozofii jako lingvistickou terapii, jejímž cílem je rozptýlit nedorozumění, k nimž jsou lidé náchylní kvůli matoucí struktuře přirozeného jazyka.[21][20][35] Podle dalšího přístupu je hlavním úkolem filozofie vyjádřit předontologické chápání světa, které funguje jako podmínka možnosti zkušenosti.[22][36][37]
+
+Mnoho dalších definic filozofie nespadá jednoznačně do žádné z výše uvedených kategorií. Raný přístup, který lze nalézt již ve starověké řecké a římské filozofii, říká, že filozofie je duchovní praxe rozvíjení schopnosti uvažování,[38][39] která je výrazem filozofovy lásky k moudrosti a jejímž cílem je zlepšit blaho člověka vedením přemýšlivého života.[40] Úzce související přístup označuje za hlavní úkol filozofie rozvoj a artikulaci světonázoru, tj. vyjádřit, jak věci ve velkém měřítku spolu souvisejí a jaký praktický postoj bychom k nim měli zaujmout.[22][18][41] Jiná definice charakterizuje filozofii jako myšlení o myšlení, aby zdůraznila její reflexivní povahu.[22][28]
+
+Historický přehled
+V obecném smyslu je filozofie spojována s moudrostí, intelektuální kulturou a hledáním poznání. V tomto smyslu si všechny kultury a gramotné společnosti kladou filozofické otázky, například „jak máme žít“ a „jaká je povaha skutečnosti“. Široké a nestranné pojetí filozofie tedy nachází rozumové tázání po takových otázkách, jako je realita, morálka a život, ve všech světových civilizacích.[42]
+
+Západní filozofie
+Podrobnější informace naleznete v článku Západní filozofie.
+Západní filozofie je filozofická tradice západního světa, která sahá až k předsokratovským myslitelům působícím v Řecku v 6. století př. n. l., jako byli Thalés z Milétu (asi 624 – asi 545 př. n. l.) a Pythagoras (asi 570 – asi 495 př. n. l.), kteří vyznávali „lásku k moudrosti“ (latinsky philosophia)[43] a byli také označováni jako „studenti přírody“ (physiologoi).
+
+Západní filozofii lze rozdělit do tří epoch:
+
+antická (řecko-římská);
+středověká filozofie (vztahující se ke křesťanskému evropskému myšlení);
+novověká filozofie (počínaje 17. stoletím).
+Antická éra
+Zatímco naše znalosti o antické éře začínají Thalétem z Milétu v 6. století př. n. l., o filozofech, kteří přišli před Sókratem (obecně známí jako předsókratici), je známo jen málo. V antickém období dominovaly řecké filozofické školy. Mezi nejvýznamnější z řeckých škol ovlivněných Sókratovým učením patřili Platón, který založil Platónskou akademii, a jeho žák Aristotelés, který založil peripatetickou školu.[44] Mezi další antické filozofické tradice ovlivněné Sókratem patřily kynismus, kyreneismus, stoicismus a akademický skepticismus. Dvě další tradice ovlivnil Sókratův současník Démokritos: Pyrrhonismus a epikureismus. Mezi důležitá témata, kterými se Řekové zabývali, patřila metafyzika (s konkurenčními teoriemi, jako je atomismus a monismus), kosmologie, povaha dobře prožitého života (eudaimonia), možnost poznání a povaha rozumu (logos). S rozmachem Římské říše se o řecké filozofii stále více diskutovalo v latině, a to u Římanů, jako byli Cicero a Seneca.[45]
+
+Středověk
+Středověká filozofie (5.–16. století) se odehrávala v období po pádu Západořímské říše a dominoval jí nástup křesťanství; odráží tedy židovsko-křesťanské teologické zájmy a zároveň si zachovává kontinuitu s řecko-římským myšlením. V tomto období se diskutovalo o problémech, jako je existence a povaha Boha, povaha víry a rozumu, metafyzika a problém zla. Mezi klíčové středověké myslitele patří svatý Augustin, Tomáš Akvinský, Boëthius, Anselm a Roger Bacon. Filozofie byla pro tyto myslitele vnímána jako pomoc teologii (ancilla theologiae), a proto se snažili sladit svou filozofii s výkladem Bible. V tomto období se rozvinula scholastika, metoda kritiky textu, která se vyvinula na středověkých univerzitách a byla založena na pozorném čtení a disputacích o klíčových textech. V období renesance se zvýšil důraz na klasické řecko-římské myšlení a na silný humanismus.[46]
+
+Novověk
+
+Obraz vlivného moderního filozofa Immanuela Kanta (v modrém plášti) s jeho přáteli. Mezi další osobnosti patří Christian Jakob Kraus, Johann Georg Hamann, Theodor Gottlieb von Hippel a Karl Gottfried Hagen
+Raná novověká filozofie v západním světě začíná u myslitelů, jako byli Thomas Hobbes a René Descartes (1596–1650).[47] Po vzniku přírodních věd se novověká filozofie zabývala rozvojem sekulárního a racionálního základu poznání a odkláněla se od tradičních autoritativních struktur, jako je náboženství, scholastika a církev. Mezi významné novověké filozofy patří Spinoza, Leibniz, Locke, Berkeley, Hume a Kant.
+
+Filozofie 19. století (někdy nazývaná pozdně moderní filozofie) byla ovlivněna širším hnutím 18. století označovaným jako „osvícenství“ a zahrnuje osobnosti jako Hegel, klíčovou postavu německého idealismu, Kierkegaard, který vytvořil základy existencialismu, Thomas Carlyle, představitel teorie velkého člověka, Nietzsche, známý odpůrce křesťanství, John Stuart Mill, který propagoval utilitarismus, Karl Marx, který vytvořil základy komunismu, a Američan William James. Ve 20. století došlo k rozkolu mezi analytickou a kontinentální filozofií, stejně jako k filozofickým směrům, jako je fenomenologie, existencialismus, logický pozitivismus, pragmatismus a lingvistický obrat.[48]
+
+Filozofie Blízkého východu
+Předislámská filozofie
+Podle asyriologa Marca Van de Mieroopa byla babylónská filozofie vysoce rozvinutým myšlenkovým systémem s jedinečným přístupem k poznání a zaměřením na písmo, lexikografii, věštění a právo.[49] jednalo se také o dvojjazyčnou intelektuální kulturu, založenou na sumerštině a akkadštině.[50]
+
+
+Stránka z Ptahhotepových Maxim, tradičně připisovaných vezírovi Ptahhotepovi (asi 2375–2350 př. n. l.)
+Raná mudroslovná literatura z oblasti Úrodného půlměsíce byla žánrem, který se snažil poučit lidi o etickém jednání, praktickém životě a ctnostech prostřednictvím příběhů a přísloví. Ve starověkém Egyptě byly tyto texty známé jako sebajt („učení“) a mají zásadní význam pro naše chápání staroegyptské filozofie. Nejznámějším z těchto textů jsou Ptahhotepovy maximy.[51] Teologie a kosmologie byly ústředními tématy egyptského myšlení. Patrně nejstarší forma monoteistické teologie se objevila také v Egyptě, a to se vznikem amarnské teologie (neboli atenismu) panovníka Achnatona (14. století př. n. l.), podle níž bylo jediným bohem sluneční božstvo stvoření Atona. Egyptolog Jan Assmann to označil za „monoteistickou revoluci“, ačkoli se opírala i o předchozí vývoj egyptského myšlení, zejména o „novou sluneční teologii“ založenou kolem Amona-Re.[52][53] Tento teologický vývoj ovlivnil i poamarnskou raménskou teologii, která si zachovala zaměření na jediné stvořitelské sluneční božstvo (i když bez přímého odmítání ostatních bohů, kteří jsou nyní považováni za projevy hlavního slunečního božstva). V tomto období se také rozvinula koncepce ba (duše) a jejího vztahu k bohu.[53]
+
+Židovská filozofie a křesťanská filozofie jsou nábožensko-filozofické tradice, které se vyvinuly jak na Blízkém východě, tak v Evropě a které obě sdílejí některé rané judaistické texty (především Tanach) a monoteistické názory. Židovští myslitelé, jako byli geonimové z talmudských akademií v Babylónii a rabín Maimonides, se zabývali řeckou a islámskou filozofií. Pozdější židovská filozofie se dostala pod silný západní intelektuální vliv a zahrnuje díla Mosese Mendelssohna, který předznamenal haskalu (židovské osvícenství), židovský existencialismus a reformní judaismus.[54][55]
+
+Různé tradice gnosticismu, které byly ovlivněny řeckými i abrahámovskými proudy, vznikly kolem prvního století našeho letopočtu a kladly důraz na duchovní poznání (gnózi).[56]
+
+Předislámská íránská filozofie začíná dílem Zarathuštry, jednoho z prvních propagátorů monoteismu a také dualismu mezi dobrem a zlem.[57] Tato dualistická kosmogonie ovlivnila pozdější íránský vývoj, jako je manicheismus, mazdakismus a zurvanismus.[58][59]
+
+Islámská filozofie
+Podrobnější informace naleznete v článku Islámská filozofie.
+
+Íránský portrét Avicenny na stříbrné váze. Byl jedním z nejvlivnějších filozofů islámského zlatého věku
+Islámská filozofie je filozofické dílo vycházející z islámské tradice a je většinou psáno v arabštině. Čerpá z islámského náboženství i z řecko-římské filozofie. Po muslimských výbojích se díky překladatelskému hnutí (od poloviny 8. do konce 10. století) stala díla řecké filozofie dostupná i v arabštině.[60]
+
+Raná islámská filozofie rozvíjela řecké filozofické tradice v nových inovativních směrech. Tato intelektuální činnost zahájila tzv. islámský zlatý věk. Dva hlavní proudy raného islámského myšlení jsou kalám, který se zaměřuje na islámskou teologii, a falsafa, která vycházela z aristotelismu a novoplatonismu. Aristotelovo dílo mělo velký vliv na filozofy, jako byli al-Kindí (9. století), Avicenna (980 - červen 1037) a Averroes (12. století). Jiní, jako například Al-Ghazálí, byli k metodám islámských aristoteliků velmi kritičtí a jejich metafyzické myšlenky považovali za kacířské. Islámští myslitelé jako Ibn al-Hajthám a al-Birúní rovněž rozvíjeli vědeckou metodu, experimentální medicínu, teorii optiky a právní filozofii. Ibn Chaldún byl vlivným myslitelem v oblasti filozofie dějin.
+
+Islámské myšlení také hluboce ovlivnilo evropský intelektuální vývoj, zejména prostřednictvím Averroesových komentářů k Aristotelovi. Mongolské vpády a jejich zničení Bagdádu v roce 1258 jsou často považovány za konec Zlatého věku.[61] Několik škol islámské filozofie se však rozvíjelo i po skončení Zlatého věku a patří k nim proudy jako iluminátská filozofie, súfijská filozofie a transcendentní teozofie.
+
+V 19. a 20. století se v arabském světě objevilo hnutí Nahda (doslova znamená „Probuzení“; známé také jako „arabská renesance“), které mělo značný vliv na současnou islámskou filozofii.
+
+Východní filozofie
+Podrobnější informace naleznete v článku Východní filozofie.
+Indická filozofie
+Podrobnější informace naleznete v článku Indická filozofie.
+
+Ǎdi Šankara je jedním z nejčastěji studovaných hinduistických filozofů[62][63]
+Indická filozofie (v sanskrtu: darśana, doslova „úhel pohledu“, „perspektiva“)[64] označuje rozmanité filozofické tradice, které vznikaly od starověku na indickém subkontinentu. Indické filozofické tradice sdílejí různé klíčové pojmy a myšlenky, které jsou různými tradicemi různě definovány a přijímány či odmítány. Patří mezi ně pojmy jako dharma, karma, pramáth, dukkha, sansára a mókša.[65][66]
+
+Jedny z nejstarších dochovaných indických filozofických textů jsou upanišady z pozdního védského období (1000–500 př. n. l.), které jsou považovány za uchovatele myšlenek bráhmanismu. Indické filozofické tradice se běžně seskupují podle vztahu k védám a myšlenkám v nich obsažených. Džinismus a buddhismus vznikly na konci védského období, zatímco různé tradice sdružené pod hinduismem většinou vznikly jako nezávislé tradice po védském období. Hinduisté sami obecně dělí indické filozofické tradice buď na ortodoxní (āstika), nebo heterodoxní (nāstika) podle toho, zda uznávají autoritu véd a v nich obsažených teorií o bráhmanu a átmanu.[67][68]
+
+Školy, které se hlásí k myšlenkám upanišad, takzvané „ortodoxní“ nebo „hinduistické“ tradice, se často dělí na šest daršan neboli filozofií: Sánkhja, Jóga, Njája, Vaišéšika, Mimámsa a Védánta.[69]
+
+Učení véd a upanišad bylo těmito šesti školami hinduistické filozofie vykládáno různě, s různou mírou překrývání. Podle Čadhy (2015) představují „soubor filozofických názorů, které mají společné textové spojení“[70] a zároveň odrážejí toleranci k různým filozofickým výkladům v rámci hinduismu, přičemž sdílejí stejný základ.[pozn. 2]
+
+Hinduističtí filozofové šesti ortodoxních škol rozvíjeli systémy epistemologie (pramana) a zkoumali témata jako metafyzika, etika, psychologie (guṇa), hermeneutika a soteriologie v rámci védského poznání, přičemž předkládali různorodý soubor interpretací.[71][72][73][74] Obecně pojmenovaných šest ortodoxních škol představovalo konkurenční filozofické tradice toho, co bylo nazýváno „hinduistickou syntézou“ klasického hinduismu.[75][76][77]
+
+Existují také další myšlenkové školy, které jsou často považovány za „hinduistické“, i když ne nutně ortodoxní (protože mohou přijímat jako normativní různá písma, např. šajvistické agamy a tantry), patří k nim různé školy šivaismu, např. pašupati, šivaistická siddhanta, neduální tantrický šavismus (tj. Trika, Kaula atd.).[78]
+
+
+Podobenství o slepcích a slonovi ilustruje důležité džinistické učení anekántaváda
+„Hinduistické“ a „ortodoxní“ tradice jsou často stavěny do protikladu k „neortodoxním“ tradicím (nāstika, doslova „ti, kteří odmítají“), ačkoli toto označení nepoužívají samotné „neortodoxní“ školy. Tyto tradice odmítají Védy jako autoritativní a často odmítají hlavní pojmy a myšlenky, které jsou široce přijímány ortodoxními školami (např. Átman, Brahman a Íšvara).[79] Mezi tyto neortodoxní školy patří džinismus (přijímá átman, ale odmítá Íšvaru, Védy a Brahmy), buddhismus (odmítá všechny ortodoxní koncepty kromě znovuzrození a karmy), čárváka (materialisté, kteří odmítají i znovuzrození a karmu) a ádžívika (známá svým učením o osudu).[79][80][81][82][83][pozn. 3][84][85]
+
+Džinistická filozofie je jednou z pouhých dvou přežívajících „neortodoxních“ tradic (spolu s buddhismem). Obecně přijímá koncept trvalé duše (dživa) jako jedné z pěti astik (věčné, nekonečné kategorie, které tvoří podstatu existence). Další čtyři jsou dhárma, adharma, ākāśa („prostor“) a pudgala („hmota“). Podle džinistického myšlení je veškerá existence cyklická, věčná a nestvořená.[86][87]
+
+Mezi nejdůležitější prvky džinistické filozofie patří džinistická teorie karmy, učení o nenásilí (ahinsá) a teorie „mnohostrannosti“ neboli anekántaváda. Tattvartha sútra je nejstarším známým, nejobsáhlejším a nejautoritativnějším souhrnem džinistické filozofie.[88][89]
+
+Buddhistická filozofie
+Podrobnější informace naleznete v článku Buddhistická filozofie.
+Mniši debatující v klášteře Sera v Tibetu, 2013. Podle Jana Westerhoffa představovaly „veřejné debaty nejdůležitější a nejviditelnější formy filozofické výměny“ ve staroindickém intelektuálním životě[90]:s.13
+Buddhistická filozofie začíná myšlením Gautamy Buddhy (asi mezi 6. a 4. stoletím př. n. l.) a je zachycena v raných buddhistických textech. Vznikla v indické oblasti Magadha a později se rozšířila do zbytku indického subkontinentu, východní Asie, Tibetu, střední Asie a jihovýchodní Asie. V těchto oblastech se buddhistické myšlení vyvinulo do různých filozofických tradic, které používaly různé jazyky (např. tibetštinu, čínštinu a pálijštinu). Buddhistická filozofie jako taková je transkulturním a mezinárodním fenoménem.
+
+Dominantní buddhistické filozofické tradice ve východoasijských zemích vycházejí především z indického mahájánového buddhismu. V zemích jihovýchodní Asie, jako je Srí Lanka, Barma a Thajsko, převládá filozofie théravádské školy.
+
+Protože neznalost pravé podstaty věcí je považována za jeden z kořenů utrpení (dukkha), zabývá se buddhistická filozofie epistemologií, metafyzikou, etikou a psychologií. Buddhistické filozofické texty je také třeba chápat v kontextu meditačních praktik, které mají přinést určité kognitivní změny.[90]:s.8 Klíčové inovativní koncepty zahrnují Čtyři ušlechtilé pravdy jako analýzu dukkhy, aničči (pomíjivosti) a anatta (ne-já).[pozn. 4][91]
+
+Po Buddhově smrti začaly různé skupiny systematizovat jeho hlavní učení a nakonec vytvořily ucelené filozofické systémy označované jako abhidharma.[90]:s.37 V návaznosti na abhidharmovské školy rozvinuli indičtí mahájánoví filozofové jako Nágardžuna a Vasubandhu teorie šúnjatá („prázdnota všech jevů“) a vijñapti-matra („pouze zdání“), což je forma fenomenologie nebo transcendentálního idealismu. Dignágova škola pramany („prostředky poznání“) propagovala propracovanou formu buddhistické epistemologie.
+
+Ve starověké a středověké Indii existovala řada škol, podškol a tradic buddhistické filozofie. Podle oxfordského profesora buddhistické filosofie Jana Westerhoffa byly hlavními indickými školami v období 300 př. n. l. až 1000 n. l.:[90]:s.xxiv tradice mahásághiky (dnes již zaniklá), školy sthavíry (jako Sarvástiváda, Vibhajjáváda a Pudgaláváda) a školy mahájány. Mnohé z těchto tradic se studovaly i v jiných oblastech, například ve Střední Asii a Číně, kam je přinesli buddhističtí misionáři.
+
+Po vymizení buddhismu z Indie se část těchto filozofických tradic dále rozvíjela v tibetské buddhistické tradici, východoasijské buddhistické tradici a théravádové buddhistické tradici.[92][93]
+
+Východoasijská filozofie
+Podrobnější informace naleznete v článcích čínská filozofie, korejská filozofie, japonská filozofie a východní filozofie.
+
+„Ochutnávači octa“ (Japonsko, období Edo, 1802–1816) od Kanó Isen'in, zobrazující tři významné filozofické osobnosti východoasijského myšlení: Buddhu, Konfucia a Lao-c’
+
+Socha neokonfuciánského učence Ču Si v Akademii jeskyně bílého jelena v pohoří Lu-šan
+Východoasijské filozofické myšlení začalo ve starověké Číně a čínská filozofie začíná ve státu Západní Čou a v následujících obdobích po jeho pádu, kdy vzkvétalo „sto myšlenkových škol“ (6. století až 221 př. n. l.)[94][95] Toto období se vyznačovalo významným intelektuálním a kulturním rozvojem a vznikly v něm hlavní čínské filozofické školy, a sice konfucianismus (známý také jako žuismus), legismus a taoismus, a také mnoho dalších méně vlivných škol, jako je mohismus a naturalismus. Tyto filozofické tradice rozvíjely metafyzické, politické a etické koncepce a pojmy, jako je tao, jin a jang, žen a li.
+
+Tyto myšlenkové směry se dále rozvíjely v říších Chan (206 př. n. l. – 220 n. l.) a Tchang (618–907 n. l.) a vytvořily nové filozofické směry, jako je süan-süe (neboli neotaoismus) a neokonfucianismus. Neokonfucianismus byl synkretickou filozofií, která zahrnovala myšlenky různých čínských filozofických tradic, včetně buddhismu a taoismu. Neokonfucianismus začal dominovat vzdělávacímu systému v říši Sung (960–1297) a jeho myšlenky sloužily jako filozofický základ zkoušek pro učenou úřednickou třídu. Mezi nejvýznamnější neokonfuciánské myslitele patří tchangští učenci Chan Jü a Li Ao a sungští myslitelé Čou Tun-i (1017–1073) a Ču Si (1130–1200). Ču Si sestavil neokonfuciánský kánon, který se skládá ze Čtyř knih (Velké učení, Cesta středu, Konfuciovy Hovory a Meng-c’).
+
+Buddhismus se do Číny začal dostávat v chanském období postupným šířením po Hedvábné stezce.[96] Pod vlivem domácí čínské tradice se vyvinul v specifické čínské formy (např. čchan/zen), které se rozšířily po celé východoasijské kulturní sféře.
+
+Čínská kultura měla velký vliv na tradice ostatních východoasijských států a její filozofie přímo ovlivnila korejskou, vietnamskou a japonskou filozofii.[97] V pozdějších čínských stítech, jako byla řeše Ming (1368–1644), a také v korejském státu Čoson (1392–1897) se dominantní myšlenkovou školou podporovanou císařským státem stal obrozený neokonfucianismus vedený mysliteli, jako byl Wang Jang-ming (1472–1529). V Japonsku byl konfuciánskou filozofií silně ovlivněn šógunát Tokugawa (1603–1867).[98] Konfucianismus dodnes ovlivňuje myšlenky a světonázor národů čínské kulturní sféry.
+
+V novověku do něj čínští myslitelé začlenili myšlenky západní filozofie. Čínská marxistická filozofie se rozvíjela pod vlivem Mao Ce-tunga, zatímco čínský pragmatismus rozvíjel Chu Š’. Ve 20. století se také začaly znovu prosazovat staré tradiční filozofie. Například nové konfuciánství, vedené osobnostmi, jako byl Siung Š’-li, se stalo poměrně vlivným. Podobně humanistický buddhismus je nedávným modernistickým buddhistickým hnutím.
+
+Moderní japonské myšlení se mezitím rozvíjelo pod silnými západními vlivy, jako bylo studium západních věd (rangaku) a modernistická intelektuální společnost Meirokuša, která čerpala z evropského osvícenského myšlení a prosazovala liberální reformy i západní filozofie, jako je liberalismus a utilitarismus. Dalším proudem v moderní japonské filozofii byla tradice „národních studií“ (kokugaku). Tento intelektuální směr se snažil studovat a propagovat staré japonské myšlení a kulturu. Myslitelé kokugaku, jako byl Norinaga Moto'ori, se snažili o návrat k čisté japonské tradici, šintoismu, kterou považovali za neposkvrněnou cizími prvky.
+
+Během 20. století se ze západní fenomenologie a středověké japonské buddhistické filozofie, například Dógenovy, vyvinula Kjótská škola, vlivná a jedinečná japonská filozofická škola.
+
+Africká filozofie
+Africká filozofie je filozofie vytvořená Afričany, filozofie, která prezentuje africké pohledy na svět, myšlenky a témata, nebo filozofie, která používá odlišné africké filozofické metody. Moderní africké myšlení se zabývá etnofilozofií, tj. definováním samotného významu africké filozofie a jejích jedinečných charakteristik a toho, co znamená být Afričanem.[99]
+
+Během 17. století se v etiopské filozofii rozvinula silná literární tradice, jejímž příkladem je Zera Yacob. Dalším raným africkým filozofem byl Anton Wilhelm Amo (asi 1703–1759), který se stal uznávaným filozofem v Německu. Mezi výrazné africké filozofické myšlenky patří Ujamaa, bantuská idea „síly“, Négritude, panafrikanismus a Ubuntu. Současné africké myšlení zaznamenalo také rozvoj profesionální filozofie a afrikanistické filozofie, filozofické literatury africké diaspory, která zahrnuje proudy, jako je černošský existencialismus Afroameričanů. Někteří současní afričtí myslitelé byli ovlivněni marxismem, afroamerickou literaturou, kritickou teorií, kritickou rasovou teorií, postkolonialismem a feminismem.
+
+Domorodá americká filozofie
+
+Aztécký filozof Tlamatini pozorující hvězdy, z Mendozova kodexu
+Domorodé americké filozofické myšlení se skládá z široké škály názorů a tradic různých amerických kultur. Mezi některými indiánskými komunitami ve Spojených státech amerických existuje víra v metafyzický princip zvaný „Velký duch“ (siusky: wakan tanka; algonkinsky: gitche manitou). Dalším široce sdíleným pojmem byl pojem orenda („duchovní síla“). Podle Whiteleyho (1998) je pro původní obyvatele Ameriky „mysl kriticky informována transcendentálními zkušenostmi (sny, vizemi atd.) i rozumem.“[100] Praktiky, které umožňují přístup k těmto transcendentálním zkušenostem, se označují jako šamanismus. Dalším rysem domorodého amerického světonázoru bylo rozšíření etiky na nelidská zvířata a rostliny.[100][101]
+
+V Mezoamerice byla nahuaská filozofie intelektuální tradicí, kterou rozvíjeli jedinci nazývaní tlamatini („ti, kteří něco vědí“)[102] a její myšlenky se dochovaly v různých aztéckých kodexech a fragmentárních textech. Někteří z těchto filozofů jsou známí podle jména, například Nezahualcóyotl, Aquiauhtzin, Xayacamach, Tochihuitzin coyolchiuhqui a Cuauhtencoztli[103][104]. Tito autoři byli také básníky a některá jejich díla se dochovala v původním nahuatlu (aztéčtině).[103][104]
+
+Aztéčtí filozofové rozvíjeli teorie metafyziky, epistemologie, hodnot a estetiky. Aztécká etika se zaměřovala na hledání tlamatiliztli („poznání“, „moudrost“), které bylo založeno na umírněnosti a rovnováze ve všech činech, jak je uvedeno v nahuatském přísloví „střední dobro je nezbytné“.[105] Nahuatský světonázor představoval koncept nejvyšší univerzální energie nebo síly zvané Ōmeteōtl („Dvojí kosmická energie“), která hledala způsob, jak žít v rovnováze s neustále se měnícím, „kluzkým“ světem. Teorii teotl lze považovat za určitou formu panteismu.[105] Podle Jamese Maffieho nahuistická metafyzika předpokládala, že teotl je „jediná, vitální, dynamická, oživující, věčně se generující a seberegenerující, jakož i seberegenerující a sebeobnovující posvátná energie či síla“.[104] Tato síla byla vnímána jako všeobjímající životní síla vesmíru a jako vesmír sám.[104]
+
+
+Vyobrazení Pachacutiho uctívajícího Intiho (boha Slunce) v Coricancha, ve druhé kronice Martína de Murúa ze 17. století. Pachacuti byl významný incký vládce, spisovatel a básník
+Také Incká říše měla elitní třídu filozofů-učitelů označovaných jako amawtakuna nebo amautas, kteří byli důležití v inckém vzdělávacím systému jako učitelé filozofie, teologie, astronomie, poezie, práva, hudby, morálky a historie.[106][107] Mladí inčtí šlechtici se v těchto oborech vzdělávali na státní škole Yacha-huasi v Cuzco, kde se také učili umění kipu.[106] Incká filozofie (stejně jako širší kategorie andského myšlení) zastávala názor, že vesmír je oživován jedinou dynamickou životní silou (někdy označovanou jako camaquen nebo camac, ale také upani a amaya).[108] Tato jediná síla vzniká také jako soubor dvojích komplementárních, avšak protikladných sil.[108] Tyto „komplementární protiklady“ se nazývají yanantin a masintin. Jsou vyjádřeny jako různé polarity či duality (např. muž–žena, tma–světlo, život a smrt, nahoře a dole), které vzájemně přispívají k harmonickému celku, jímž je vesmír, prostřednictvím procesu reciprocity a vzájemné výměny zvaného ayni.[109][108] Incký světonázor zahrnoval také víru v Boha stvořitele (virakoča) a reinkarnaci.[107]
+
+Rozdělení filozofie
+Filozofické otázky lze rozdělit do různých oblastí. Tyto oblasti umožňují filozofům zaměřit se na soubor podobných témat a komunikovat s dalšími mysliteli, kteří se zajímají o stejné otázky.
+
+Tato dělení nejsou vyčerpávající ani se vzájemně nevylučují. (Filozof se může specializovat na kantovskou epistemologii, platónskou estetiku nebo moderní politickou filozofii). Kromě toho se tato filozofická zkoumání někdy překrývají navzájem i s jinými druhy zkoumání, jako je věda, náboženství nebo matematika.[110]
+
+Epistemologie
+Podrobnější informace naleznete v článku Epistemologie.
+
+Dignaga založil školu buddhistické epistemologie a logiky
+Epistemologie je obor filozofie, který se zabývá poznáním..[111] Epistemologové zkoumají domnělé zdroje poznání, včetně vnímání zkušenosti, rozumu, paměti a svědectví. Zkoumají také otázky týkající se povahy pravdy, víry, zdůvodnění a racionality.[112]
+
+Filozofický skepticismus, který zpochybňuje některá nebo všechna tvrzení o poznání, byl předmětem zájmu po celou dobu dějin filozofie. Vznikla již v předsokratovské filozofii a formalizovala se s Pyrrem, zakladatelem nejstarší západní školy filozofického skepticismu. Výrazně se objevuje v dílech novověkých filozofů Reného Descarta a Davida Huma a zůstává ústředním tématem současných epistemologických debat.[112]
+
+Jedna z nejvýznamnějších epistemologických debat se vede mezi empirismem a racionalismem.[113] Empirismus klade důraz na pozorování prostřednictvím smyslové zkušenosti jako na zdroj poznání.[113] Empirismus je spojován s poznáním a posteriori, které se získává na základě zkušenosti (např. vědecké poznání).[113] Racionalismus klade důraz na rozum jako zdroj poznání,[113] je spojován s apriorním poznáním, které je nezávislé na zkušenosti (např. logika a matematika).
+
+Jedna z ústředních debat v současné epistemologii se vede o podmínkách, které jsou nutné k tomu, aby přesvědčení představovalo poznání, což může zahrnovat pravdivost a zdůvodnění. Tato debata byla do značné míry výsledkem pokusů o řešení Gettierova problému.[112] Dalším častým předmětem současných debat je problém regrese, který se objevuje při snaze nabídnout důkaz nebo zdůvodnění nějakého přesvědčení, výroku nebo propozice. Problém spočívá v tom, že ať už je zdrojem zdůvodnění cokoli, musí být tento zdroj buď bez zdůvodnění (v takovém případě je třeba jej považovat za libovolný základ přesvědčení), nebo musí mít nějaké další zdůvodnění (v takovém případě musí být zdůvodnění buď výsledkem kruhového uvažování, jako v koherencionismu, nebo výsledkem nekonečného regresu, jako v infinitismu).[112]
+
+Estetika
+Podrobnější informace naleznete v článku Estetika.
+Estetika je „kritická reflexe umění, kultury a přírody“.[114][115] Zabývá se povahou umění, krásou a vkusem, požitkem, emočními hodnotami, vnímáním a vytvářením a oceňováním krásy.[116] Přesněji je definována jako studium smyslových nebo smyslově-emocionálních hodnot, někdy nazývaných soudy pocitu a vkusu.[117] Jejími hlavními obory jsou teorie umění, literární teorie, filmová teorie a hudební teorie. Příkladem z teorie umění je rozeznání souboru principů, na nichž je založeno dílo určitého umělce nebo uměleckého směru, například kubistické estetiky.[118]
+
+Etika
+Podrobnější informace naleznete v článku Etika.
+
+„Utilitaristická doktrína říká, že štěstí je žádoucí, a to jediné, co je žádoucí jako cíl; všechny ostatní věci jsou žádoucí pouze jako prostředky k dosažení tohoto cíle.“ ~ John Stuart Mill, Utilitarismus (1863)
+Etika, známá také jako morální filozofie, zkoumá, co je dobré a špatné chování, správné a špatné hodnoty a dobro a zlo. Její hlavní náplní je zkoumat, jak žít dobrý život, a určovat normy morálky. Zahrnuje také zkoumání, zda existuje nejlepší způsob života nebo univerzální morální norma, a pokud ano, jak se o ní dozvídáme. Hlavními obory etiky jsou normativní etika, metaetika a aplikovaná etika.[119]
+
+V normativní etice existují tři hlavní názory na to, co je morální jednání:[119]
+
+Konsekvencialismus, který posuzuje činy na základě jejich důsledků.[120] Jedním z takových názorů je utilitarismus, který posuzuje činy na základě čistého štěstí (nebo potěšení) a/nebo nedostatku utrpení (nebo bolesti), které způsobují.
+Deontologie, která posuzuje jednání na základě toho, zda je v souladu s morální povinností. Ve standardní podobě, kterou hájil Immanuel Kant, se deontologie zabývá tím, zda volba respektuje morální jednání druhých lidí bez ohledu na jeho důsledky.[120]
+Etika ctnosti, která posuzuje činy na základě morálního charakteru jednajícího a toho, zda odpovídají tomu, co by dělal ideálně ctnostný jednající.[120]
+Filozofie náboženství
+Podrobnější informace naleznete v článku Filozofie náboženství.
+Filozofie náboženství se zabývá otázkami, které se týkají náboženství a náboženských idejí, z filozoficky neutrální perspektivy (na rozdíl od teologie, která vychází z náboženského přesvědčení).[121] Tradičně nebyly náboženské otázky považovány za samostatný obor oddělený od vlastní filozofie a myšlenka samostatného oboru vznikla až v 19. století.
+
+Témata zahrnují existenci Boha, vztah mezi rozumem a vírou, otázky náboženské epistemologie, vztah mezi náboženstvím a vědou, způsob interpretace náboženských zkušeností, otázky možnosti posmrtného života, problém náboženského jazyka a existence duše a reakce na náboženský pluralismus a rozmanitost.
+
+Filozofie vědy
+Podrobnější informace naleznete v článku Filozofie vědy.
+Filozofie vědy zkoumá základy, metody, historii, důsledky a účel vědy. Mnoho jejích pododdělení odpovídá konkrétním vědním oborům. Například filozofie biologie se zabývá konkrétně metafyzickými, epistemologickými a etickými otázkami biomedicínských věd a věd o životě.
+
+Logika
+Podrobnější informace naleznete v článku Logika.
+Logika je nauka o uvažování a argumentaci.
+
+Deduktivní uvažování je takové, kdy z určitých předpokladů nevyhnutelně vyplývají závěry.[122] K odvozování závěrů se používají pravidla odvozování, jako je modus ponens, jestliže platí „A“ a „Jestliže A, pak B“, pak musí být vyvozeno „B“.
+
+Protože zdravá argumentace je základním prvkem všech věd,[123] společenských a humanitních věd, stala se logika formální vědou. Mezi dílčí obory patří matematická logika, filozofická logika, modální logika, počítačová logika a neklasické logiky. Hlavní otázkou ve filozofii matematiky je, zda jsou matematické entity objektivní a objevené, což se nazývá matematický realismus, nebo vymyšlené, což se nazývá matematický antirealismus.
+
+Metafilozofie
+Metafilozofie zkoumá cíle, hranice a metody filozofie. Diskutuje se o tom, zda je metafilozofie předmětem, který předchází filozofii,[124] nebo zda je neodmyslitelnou součástí filozofie.[125]
+
+Metafyzika
+Podrobnější informace naleznete v článku Metafyzika.
+
+Začátek Aristotelovy Metafyziky v inkunábulu zdobeném ručně malovanými miniaturami
+Metafyzika se zabývá nejobecnějšími rysy skutečnosti, jako je existence, čas, předměty a jejich vlastnosti, celky a jejich části, události, procesy a příčiny a vztah mezi myslí a tělem.[126] Metafyzika zahrnuje kosmologii, studium světa v jeho celistvosti, a ontologii, studium bytí, spolu s filozofií prostoru a času.
+
+Hlavním předmětem diskuse je realismus, který tvrdí, že existují entity nezávislé na jejich mentálním vnímání, a idealismus, který tvrdí, že realita je mentálně konstruovaná nebo jinak nehmotná. Metafyzika se zabývá tématem identity. Podstata je soubor vlastností, které dělají objekt tím, čím v podstatě je, a bez nichž ztrácí svou identitu, zatímco náhoda je vlastnost, kterou objekt má a bez níž si může stále zachovat svou identitu. Partikulární objekty jsou objekty, o nichž se říká, že existují v prostoru a čase, na rozdíl od abstraktních objektů, jako jsou čísla, a univerzálií, což jsou vlastnosti, které má více partikulárních objektů, například červenost nebo pohlaví. Typ existence univerzálií a abstraktních objektů, pokud vůbec existuje, je předmětem diskuse.
+
+Mysl a jazyk
+Podrobnější informace naleznete v článcích Filozofie jazyka a Filozofie mysli.
+Filozofie jazyka zkoumá povahu, původ a používání jazyka. Filozofie mysli zkoumá povahu mysli a její vztah k tělu, což je typické pro spory mezi materialismem a dualismem. V posledních letech se tento obor propojil s kognitivní vědou.
+
+Politická filozofie
+Podrobnější informace naleznete v článku Politická filozofie.
+
+Thomas Hobbes, nejznámější díky své knize Leviathan z roku 1651, v níž vyložil vlivnou formulaci teorie společenské smlouvy
+Politická filozofie je studium státní moci a vztahu jednotlivců (nebo rodin a rodů) ke společenstvím včetně státu. Zahrnuje otázky spravedlnosti, práva, vlastnictví a práv a povinností občanů. Politická filozofie, etika a estetika jsou tradičně propojené předměty pod obecným označením teorie hodnoty, neboť zahrnují normativní nebo hodnotící aspekt.[127]
+
+Ostatní oblasti
+Ve třináctém oddíle svých Životů a názorů významných filozofů, v nejstarších dochovaných dějinách filozofie (3. století), Diogenes Laertius předkládá třídílné rozdělení starořeckého filozofického bádání:[128]
+
+Přírodní filozofie (tj. fyzika, z řeckého ta physika, dosl. „věci, které mají co do činění s fysis [přírodou]“) byla nauka o stavbě a procesech přeměny ve fyzikálním světě.[129]
+Morální filozofie (tj. etika, od êthika, „vztahující se k charakteru, vlastnostem, mravům“) byla nauka o dobru, dobru a zlu, spravedlnosti a ctnosti.[130]
+Metafyzická filozofie (tj. logika, od logikós, „z rozumu nebo řeči“) se zabývala existencí, příčinou, Bohem, logikou, formami a dalšími abstraktními předměty. (meta ta physika, „po fyzice“)
+Pyrrhonský filozof Sextus Empiricus ve svém díle Proti logikům podrobně popsal rozmanitost způsobů, jakými starověcí řečtí filozofové dělili filozofii, a poznamenal, že na tomto třídílném dělení se shodli Platón, Aristoteles, Xenokrates a stoikové.[131] Toto třídílné dělení dodržoval i filozof akademické skepse Cicero.[132]
+
+Toto rozdělení není zastaralé, ale změnilo se: přírodní filozofie se rozdělila na různé přírodní vědy, zejména fyziku, astronomii, chemii, biologii a kosmologii; z morální filozofie se zrodily společenské vědy, přičemž stále zahrnuje teorii hodnoty (např. etiku, estetiku, politickou filozofii atd.); a metafyzická filozofie ustoupila formálním vědám, jako je logika, matematika a filozofie vědy, přičemž stále zahrnuje epistemologii, kosmologii atd. Například Newtonovo dílo Matematické principy přírodní filosofie (1687), od té doby klasifikované jako kniha o fyzice, používá termín přírodní filozofie, jak byl chápán v té době, a tedy zahrnují disciplíny, jako je astronomie, medicína a fyzika, které se později začaly pojit s přírodními vědami.[133]
+
+Další disciplíny
+dějiny filozofie – o filozofech, filozofických školách a směrech minulosti;
+filozofická antropologie – o člověku, jeho možnostech a společnosti;
+filozofie dějin – o dějinných procesech a tendencích, o jejich smyslu;
+filozofie výchovy – o výchově a vzdělávání, o úloze učitele a školství;
+filozofie matematiky – o předpokladech, základech a důsledcích matematiky;
+Metody filozofie
+Metody filozofie jsou způsoby vedení filozofického zkoumání. Zahrnují techniky, jak dospět k filozofickému poznání a zdůvodnit filozofická tvrzení, a také principy používané pro výběr mezi konkurenčními teoriemi.[134][135][136] V průběhu dějin filozofie se používala velká škála metod. Mnohé z nich se výrazně liší od metod používaných v přírodních vědách tím, že nepoužívají experimentální data získaná pomocí měřicích přístrojů.[137][138][139] Volba vlastní metody má obvykle důležité důsledky jak pro způsob konstrukce filozofických teorií, tak pro argumenty uváděné pro ně nebo proti nim.[135][140][141] Tato volba je často vedena epistemologickými úvahami o tom, co představuje filozofický důkaz, jakou oporu nabízí a jak jej získat.[137][135][142] Různé neshody na úrovni filozofických teorií mají svůj zdroj v metodologických neshodách a objevení nových metod má často důležité důsledky jak pro to, jak filozofové provádějí svůj výzkum, tak pro to, jaká tvrzení obhajují.[143][136][135] Někteří filozofové se věnují většině svého teoretizování pomocí jedné konkrétní metody, zatímco jiní používají širší škálu metod podle toho, která z nich se nejlépe hodí pro konkrétní zkoumaný problém.[138][144]
+
+Významnou metodou filozofie je metodologický skepticismus. Jejím cílem je dospět k naprosto jistým prvním principům pomocí systematického pochybování, aby se určilo, které principy filozofie jsou nepochybné.[145] Geometrická metoda se snaží vybudovat ucelený filozofický systém na základě malého souboru takových axiomů. Činí tak pomocí deduktivního uvažování, aby rozšířila jistotu svých axiomů na systém jako celek.[146][147] Fenomenologové usilují o jisté poznání o říši jevení. Činí tak tím, že pozastavují své soudy o vnějším světě, aby se zaměřili na to, jak se věci jeví nezávisle na jejich základní realitě, což je technika známá jako epoché.[148][136] Konceptuální analýza je známou metodou analytické filozofie. Jejím cílem je objasnit význam pojmů jejich analýzou na základní složky.[149][34][18] Další metoda často používaná v analytické filozofii je založena na zdravém rozumu. Vychází z obecně přijímaných přesvědčení a snaží se z nich vyvodit zajímavé závěry, které často používá v negativním smyslu ke kritice filozofických teorií, které jsou příliš vzdálené tomu, jak danou problematiku vidí běžný člověk.[139][150][151] Je to velmi podobné tomu, jak filozofie přirozeného jazyka řeší filozofické otázky zkoumáním toho, jak se používá přirozený jazyk.[136][152][153]
+
+Různé metody ve filozofii přikládají zvláštní význam intuicím, tj. neinferenčním dojmům o správnosti konkrétních tvrzení nebo obecných principů,[143][154] například hrají důležitou roli v myšlenkových experimentech, které využívají kontrafaktuální myšlení k posouzení možných důsledků představované situace. Tyto předpokládané důsledky pak mohou být použity k potvrzení nebo vyvrácení filozofických teorií.[155][156][149] Intuice využívá také metoda reflexivní rovnováhy. Snaží se vytvořit koherentní postoj k určitému problému zkoumáním všech relevantních přesvědčení a intuicí, z nichž některé je často třeba vyřadit nebo přeformulovat, aby se dospělo ke koherentní perspektivě.[143][157][158] Pragmatici zdůrazňují význam konkrétních praktických důsledků pro posouzení, zda je filozofická teorie pravdivá, nebo nepravdivá.[159][160] Experimentální filozofie je poměrně nedávného původu. Její metody se od většiny ostatních metod filozofie liší tím, že se snaží odpovědět na filozofické otázky shromažďováním empirických dat podobně jako sociální psychologie a kognitivní vědy.
+
+Filozofický pokrok
+Mnohé filozofické debaty, které začaly už ve starověku, se vedou dodnes. Britský filozof Colin McGinn tvrdí, že během tohoto období nedošlo k žádnému filozofickému pokroku.[161] Australský filozof David Chalmers naopak vidí pokrok ve filozofii podobně jako ve vědě. Mezitím Talbot Brewer, profesor filozofie na University of Virginia, tvrdí, že „pokrok“ je špatným měřítkem pro posuzování filozofické činnosti.6
+
+Hlavní filozofické pozice
+Ve filozofii existuje množství učení, proudů a směrů,[162] jejichž rozmanitost vždy vyvolávala nedůvěru ve schopnost filozofie řešit diskutované problémy.[163] Filozofie je jedinou oblastí vědění, v níž shoda mezi jejími význačnými představiteli je spíše výjimkou než pravidlem.[162] Rousseau psal s rozhorčením o filozofických směrech, které spolu navzájem soupeří:
+
+„	Ptám se jen: co je to filozofie, co obsahují spisy nejznámějších filozofů, jaká jsou ponaučení těchto přátel moudrosti? Posloucháme-li je, cožpak není možno je považovat za tlupu šarlatánů, kteří vykřikují každý své na veřejném náměstí: pojďte ke mně, pouze já se nikdy nemýlím! Jeden tvrdí, že tělesa v přírodě vůbec nejsou a že všechno jsou jen moje představy o nich; druhý, že neexistujejiná látka kromě hmoty, jiný bůh kromě Přírody. Ten prohlašuje, že neexistují ani ctnosti, ani hříchy a že dobro a zlo v oblasti morálky jsou výmysl, jiný, že lidé jsou vlci a mohou s klidným svědomím požírat jeden druhého.	“
+— Jean-Jacques Rousseau: Rozprava o vědách a uměních.
+Racionalismus, empirismus, metafyzické systémy, dualismus, pluralismus, naturalismus, „realismus“, nominalismus, fenomenalismus, supranaturalismus, scholastika, mystika, iracionalismus, intuitivismus, organicismus, senzualismus, essencialismus, mechanicismus, antropologismus, panteismus — to zdaleka není plný výčet filozofických směrů, částečně poplatný momentům podmíněnosti.[164] Otázka filozofických směrů je jedním z hlavních a nejsložitějších problémů historicko-filozofické vědy.[163]
+
+Filozofové o filozofii
+Myšlenky velkých filozofů nezastarávají a tím nejcitovanějším je dodnes Platón. Někteří filozofii charakterizovali takto:
+
+„Údiv je postoj člověka, který moudrost skutečně miluje, a není jiný počátek filozofie než tento.“ Platón[165]
+
+„Údiv vedl lidi k filozofování – na počátku i dnes – a to tak, že se zarazili s údivem u nejbližších otázek a potom se pomalu zamýšleli i nad většími věcmi… A kdo se zamýšlí a diví, ten se domnívá, že neví.“ Aristotelés[166]
+
+„Kdo chce hledat radost sám v sobě, nenajde ji jinde než ve filozofii.“ Aristotelés[167]
+
+„Filozofie je péče (starost) o duši.“ Cicero[168]
+
+„Studium filozofie není k tomu, abychom věděli, co se lidé domnívali, ale jak se to má s pravdou věcí.“ Tomáš Akvinský[169]
+
+„Žít a nefilozofovat je jako mít zavřené oči a nikdy se ani nepokusit je otevřít.“ René Descartes[170]
+
+Immanuel Kant vymezil úlohu filozofie třemi otázkami: „Co mohu vědět? Co mám činit? V co mohu doufat?“,[171] které lze shrnout do jediné: „Co je člověk?“
+
+„Úkolem filozofie je pochopit to, co jest.“ G. W. F. Hegel[172]
+
+„Filozofové svět dosud jen různě vykládali, teď jde o to jej změnit.“ Karl Marx, These o Feuerbachovi 11.
+
+„Zachytit hranice rozumu – jen to je pravá filozofie.“ Friedrich Nietzsche[173]
+
+„Velká filozofie není filozofie bez chyb, ale beze strachu.“ Charles Péguy[174]
+
+„Filozofie není nauka, nýbrž činnost. Filozofické dílo sestává podstatně z objasnění.“ Ludwig Wittgenstein[175]
+
+Odkazy
+Poznámky
+ Quinton, Anthony. 1995. "The Ethics of Philosophical Practice." s. 666 v The Oxford Companion to Philosophy, editor Ted Honderich. New York: Oxford University Press. ISBN 978-0-19-866132-0. "Filozofie je racionálně kritické myšlení více či méně systematického druhu o obecné povaze světa (metafyzika neboli teorie existence), o oprávněnosti víry (epistemologie neboli teorie poznání) a o životním chování (etika neboli teorie hodnot). Každý ze tří prvků tohoto výčtu má svůj nefilozofický protějšek, od něhož se odlišuje explicitně racionálním a kritickým způsobem postupu a systematičností. Každý člověk má nějakou obecnou představu o povaze světa, v němž žije, a o svém místě v něm. Metafyzika nahrazuje neargumentované předpoklady obsažené v takové představě racionálním a organizovaným souborem přesvědčení o světě jako celku. Každý člověk má příležitost pochybovat a zpochybňovat přesvědčení, ať už svá vlastní, nebo přesvědčení druhých, s větším či menším úspěchem a bez jakékoli teorie toho, co dělá. Epistemologie se snaží pomocí argumentů objasnit pravidla správného utváření přesvědčení. Každý řídí své jednání tím, že je směřuje k žádoucím nebo ceněným cílům. Etika neboli morální filosofie ve svém nejširším smyslu usiluje o to, aby racionálně systematickou formou formulovala příslušná pravidla či principy." (s. 666).
+ Sharma. A Hindu Perspective on the Philosophy of Religion. [s.l.]: Palgrave Macmillan, 1990. Dostupné v archivu pořízeném z originálu dne 12 January 2020. ISBN 978-1-349-20797-8. (anglicky) „ Postoj k existenci Boha se v hinduistické náboženské tradici liší. To nemusí být zcela neočekávané vzhledem k toleranci k názorové rozmanitosti, kterou je tato tradice známá. Ze šesti ortodoxních systémů hinduistické filosofie se tedy pouze tři zabývají touto otázkou dosti podrobně. Jedná se o myšlenkové směry známé jako njája, jóga a teistické formy védánty.“ (str. 1-2).
+ Wynne, Alexander. 2011. "The ātman and its negation." Journal of the International Association of Buddhist Studies 33(1–2):103–05. "Popírání toho, že člověk má "já" nebo "duši", je pravděpodobně nejznámějším buddhistickým učením. Je jistě jeho nejvýraznější, jak zdůraznil Gunapala Piyasena Malalasekera: "Ve svém popírání jakékoli skutečné trvalé duše nebo Já stojí buddhismus osamoceně." V tomto případě se jedná o popírání duše nebo Já. Podobný moderní sinhálský pohled vyjádřil Walpola Rahula: "Buddhismus je v dějinách lidského myšlení jedinečný v tom, že popírá existenci takové Duše, Já nebo Átmana. Učení o "žádném Já" nebo "žádné duši" (v sánskrtu: anātman; v páli: anattan) je obzvláště pozoruhodné pro své široké přijetí a historickou trvanlivost. Bylo to standardní přesvědčení prakticky všech starověkých škol indického buddhismu (významnou výjimkou jsou pudgalávádinové) a přetrvalo beze změny až do moderní doby..... [O]ba názory se odrážejí v moderním théravádinském pohledu Mahási Sayadawa, že "neexistuje žádná osoba ani duše", a v moderním mahájánovém pohledu čtrnáctého dalajlamy, že "[B]udha učil, že ... naše víra v nezávislé já je hlavní příčinou veškerého utrpení".
+ Gombrich, Richard. Theravada Buddhism. [s.l.]: Routledge, 2006. Dostupné v archivu pořízeném z originálu dne 2019-08-16. ISBN 978-1-134-90352-8. (anglicky) "Veškerá fenomenální existence [v buddhismu] má tři vzájemně propojené charakteristiky: pomíjivost, utrpení a nedostatek duše či podstaty." (s. 47).
+Reference
+V tomto článku byl použit překlad textu z článku Philosophy na anglické Wikipedii.
+
+ Pravopis a výslovnost přejatých slov se s – z. Internetová jazyková příručka [online]. Ústav pro jazyk český AV ČR [cit. 2023-02-15]. Dostupné online.
+ philosophy | Definition, Systems, Fields, Schools, & Biographies | Britannica [online]. [cit. 2022-05-29]. Dostupné v archivu pořízeném z originálu dne 23 February 2021. (anglicky)
+ Philosophy [online]. University of Oxford Press, 2020 [cit. 2019-03-28]. Dostupné v archivu pořízeném z originálu dne 28 March 2019. (anglicky)
+ SELLARS, Wilfrid. Empiricism and the Philosophy of Mind. [s.l.]: Routledge and Kegan Paul Ltd., 1963. Dostupné v archivu pořízeném z originálu dne 23 March 2019. S. 1, 40. (anglicky)
+ CHALMERS, David J. Facing up to the problem of consciousness. Journal of Consciousness Studies. 1995, s. 200, 219. Dostupné v archivu pořízeném z originálu dne 20 November 2019. (anglicky)
+ HENDERSON, Leah. The problem of induction. Stanford Encyclopedia of Philosophy. 2019. Dostupné v archivu pořízeném z originálu dne 27 March 2019. (anglicky)
+ CAMERON, Alister. The Pythagorean Background of the theory of Recollection. [s.l.]: George Banta Publishing Company, 1938. (anglicky)
+ Jaeger, W. 'On the Origin and Cycle of the Philosophic Ideal of Life.' First published in Sitzungsberichte der preussischen Akademie der Wissenschaften, philosophisch-historishce Klasse, 1928; Eng. Translation in Jaeger's Aristotle, 2nd Ed. Oxford, 1948, 426-61
+ Festugiere, A.J. 'Les Trios Vies', Acta Congressus Madvigiani, vol. 2, Copenhagen, 1958, 131-78
+ GUTHRIE, W. K. C. A history of Greek philosophy. Cambridge: Cambridge University Press, 1962–1981. Dostupné v archivu pořízeném z originálu dne 21 January 2022. ISBN 978-0-521-05160-6. OCLC 22488892 S. 165–166. (anglicky)
+ ADLER, Mortimer J. How to Think About the Great Ideas: From the Great Books of Western Civilization. Chicago, Ill.: Open Court, 2000. Dostupné online. ISBN 978-0-8126-9412-3. (anglicky)
+ LINDBERG, David C. The beginnings of western science : the European scientific tradition in philosophical, religious, and institutional context, prehistory to A.D. 1450. 2. vyd. Chicago: University of Chicago Press xvi, 488 pages s. Dostupné online. ISBN 978-0-226-48205-7, ISBN 0-226-48205-7. OCLC 156874785 S. 3.
+ SHAPIN, Steven. The Scientific Revolution. 1st. vyd. [s.l.]: University Of Chicago Press, 1998. Dostupné online. ISBN 978-0-226-75021-7. (anglicky)
+ BRIGGLE, Robert; FRODEMAN, Adam. When Philosophy Lost Its Way | The Opinionator [online]. 11 January 2016 [cit. 2016-04-25]. Dostupné v archivu pořízeném z originálu dne 5 March 2020. (anglicky)
+ Metaphysics [online]. [cit. 2020-05-08]. Dostupné v archivu pořízeném z originálu dne 8 May 2020. (anglicky)
+ Epistemology [online]. [cit. 2020-05-08]. Dostupné v archivu pořízeném z originálu dne 8 May 2020. (anglicky)
+ philosophy | Etymology, origin and meaning of philosophy by etymonline. www.etymonline.com [online]. [cit. 2022-11-03]. Dostupné online. (anglicky)
+ AUDI, Robert. Macmillan Encyclopedia of Philosophy, 2nd Edition. [s.l.]: Macmillan, 2006. Dostupné v archivu pořízeném z originálu dne 14 February 2022. Kapitola Philosophy. (anglicky)
+ HONDERICH, Ted. The Oxford Companion to Philosophy. [s.l.]: Oxford University Press, 2005. Dostupné v archivu pořízeném z originálu dne 29 January 2021. Kapitola Philosophy. (anglicky)
+ SANDKÜHLER, Hans Jörg. Enzyklopädie Philosophie. [s.l.]: Meiner, 2010. Dostupné v archivu pořízeném z originálu dne 20 March 2022. Kapitola Philosophiebegriffe. (anglicky)
+ JOLL, Nicholas. Metaphilosophy [online]. [cit. 2022-02-01]. Dostupné v archivu pořízeném z originálu dne 15 May 2019. (anglicky)
+ OVERGAARD, Søren; GILBERT, Paul; BURWOOD, Stephen. An Introduction to Metaphilosophy. [s.l.]: Cambridge University Press, 2013. Dostupné v archivu pořízeném z originálu dne 14 February 2022. ISBN 978-0-521-19341-2. Kapitola What is philosophy?, s. 17–44. (anglicky)
+ philosophy [online]. [cit. 2022-02-15]. Dostupné v archivu pořízeném z originálu dne 13 September 2017. (anglicky)
+ BAGGINI, Julian; KRAUSS, Lawrence. Philosophy v science: which can answer the big questions of life? [online]. 8 September 2012 [cit. 2022-02-11]. Dostupné v archivu pořízeném z originálu dne 14 February 2022. (anglicky)
+ MITTELSTRASS, Jürgen. Enzyklopädie Philosophie und Wissenschaftstheorie. [s.l.]: Metzler, 2005. Dostupné v archivu pořízeném z originálu dne 20 October 2021. Kapitola Philosophie. (anglicky)
+ QUINE, Willard Van Orman. Quine in Dialogue. [s.l.]: Harvard University Press, 2008. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISBN 978-0-674-03083-1. Kapitola 41. A Letter to Mr. Ostermann. (anglicky)
+ RESCHER, Nicholas. On the Nature of Philosophy and Other Philosophical Essays. [s.l.]: Walter de Gruyter, 2 May 2013. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISBN 978-3-11-032020-6. Kapitola 1. The Nature of Philosophy. (anglicky)
+ NUTTALL, Jon. An Introduction to Philosophy. [s.l.]: John Wiley & Sons, 3 July 2013. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISBN 978-0-7456-6807-9. Kapitola 1. The Nature of Philosophy. (anglicky)
+ HYLTON, Peter; KEMP, Gary. Willard Van Orman Quine: 3. The Analytic-Synthetic Distinction and the Argument Against Logical Empiricism [online]. Metaphysics Research Lab, Stanford University, 2020 [cit. 2022-02-27]. Dostupné v archivu pořízeném z originálu dne 25 February 2021. (anglicky)
+ GELAN, Victor Eugen. The Subject(s) of Phenomenology: Rereading Husserl. [s.l.]: Springer International Publishing, 2020. (Contributions to Phenomenology; sv. 108). Dostupné v archivu pořízeném z originálu dne 2 March 2022. ISBN 978-3-030-29357-4. DOI 10.1007/978-3-030-29357-4_6. S2CID 213082313. Kapitola Husserl's Idea of Rigorous Science and Its Relevance for the Human and Social Sciences, s. 97–105. (anglicky)
+ INGARDEN, Roman. On the Motives which led Husserl to Transcendental Idealism. [s.l.]: Springer Netherlands, 1975. (Phaenomenologica; sv. 64). Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISBN 978-94-010-1689-6. DOI 10.1007/978-94-010-1689-6_3. Kapitola The Concept of Philosophy as Rigorous Science, s. 8–11. (anglicky)
+ CHALMERS, David J. Why Isn't There More Progress in Philosophy?. Philosophy. 2015, s. 3–31. Dostupné v archivu pořízeném z originálu dne 13 February 2022. DOI 10.1017/s0031819114000436. S2CID 170974260. (anglicky)
+ DELLSÉN, Finnur; LAWLER, Insa; NORTON, James. Thinking about Progress: From Science to Philosophy. Noûs. 29 June 2021, s. nous.12383. DOI 10.1111/nous.12383. S2CID 235967433. (anglicky)
+ SHAFFER, MICHAEL J. The Problem of Necessary and Sufficient Conditions and Conceptual Analysis. Metaphilosophy. 2015, s. 555–563. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISSN 0026-1068. DOI 10.1111/meta.12158. JSTOR 26602327. S2CID 148551744. (anglicky)
+ BILETZKI, Anat; MATAR, Anat. Ludwig Wittgenstein: 3.7 The Nature of Philosophy [online]. Metaphysics Research Lab, Stanford University, 2021 [cit. 2022-02-11]. Dostupné v archivu pořízeném z originálu dne 8 September 2018. (anglicky)
+ PICHÉ, Claude. Transcendental Inquiry: Its History, Methods and Critiques. [s.l.]: Springer International Publishing, 2016. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISBN 978-3-319-40715-9. DOI 10.1007/978-3-319-40715-9_1. Kapitola Kant on the "Conditions of the Possibility" of Experience, s. 1–20. (anglicky)
+ WHEELER, Michael. Martin Heidegger [online]. Metaphysics Research Lab, Stanford University, 2020 [cit. 2022-02-11]. Dostupné v archivu pořízeném z originálu dne 6 February 2022. (anglicky)
+ BANICKI, Konrad. Philosophy as Therapy: Towards a Conceptual Model. Philosophical Papers. 2014, s. 7–31. Dostupné v archivu pořízeném z originálu dne 13 February 2022. DOI 10.1080/05568641.2014.901692. S2CID 144901869. (anglicky)
+ HADOT, Pierre. Philosophy as a Way of Life: Spiritual Exercises From Socrates to Foucault. [s.l.]: Blackwell, 1997. Dostupné v archivu pořízeném z originálu dne 14 February 2022. Kapitola 11. Philosophy as a Way of Life. (anglicky)
+ GRIMM, Stephen R.; COHOE, Caleb. What is philosophy as a way of life? Why philosophy as a way of life?. European Journal of Philosophy. 2021, s. 236–251. Dostupné v archivu pořízeném z originálu dne 13 February 2022. ISSN 1468-0378. DOI 10.1111/ejop.12562. S2CID 225504495. (anglicky)
+ MCIVOR, David W. International Encyclopedia of the Social Sciences. [s.l.]: [s.n.] Dostupné v archivu pořízeném z originálu dne 20 March 2022. Kapitola Weltanschauung. (anglicky)
+ The Oxford Handbook of World Philosophy. Redakce Garfield Jay L. [s.l.]: Oxford University Press, 2011-06-09. ISBN 9780195328998. DOI 10.1093/oxfordhb/9780195328998.001.0001. Kapitola Introduction. (anglicky)
+ HEGEL, Georg Wilhelm Friedrich; BROWN, Robert F. Lectures on the History of Philosophy: Greek philosophy. [s.l.]: Clarendon Press, 2006. Dostupné online. ISBN 978-0-19-927906-7. S. 33. (anglicky)
+ WHITEHEAD, Alfred North. Process and Reality. [s.l.]: Simon and Schuster, 2010-05-11. Dostupné online. ISBN 978-1-4391-1836-8. S. 39. (anglicky)
+ KENNY, Anthony. Ancient Philosophy: A New History of Western Philosophy. [s.l.]: OUP Oxford, 2004-06-17. Dostupné online. ISBN 978-0-19-162252-6. (anglicky)
+ KENNY, Anthony. Medieval Philosophy: A New History of Western Philosophy, Volume 2. [s.l.]: OUP Oxford, 2007-05-31. Dostupné online. ISBN 978-0-19-162253-3. (anglicky)
+ Collinson, Diane. Fifty Major Philosophers, A Reference Guide. [s.l.]: [s.n.] S. 125. (anglicky)
+ KENNY, Anthony. The Rise of Modern Philosophy: A New History of Western Philosophy, Volume 3. [s.l.]: OUP Oxford, 2006-06-29. Dostupné online. ISBN 978-0-19-875277-6. (anglicky)
+ Philosophy before the Greeks. The Pursuit of Truth in Ancient Babylonia (2015), pp. vii-viii, 187-188. Princeton University Press. ISBN 978-0691157184
+ Philosophy before the Greeks. The Pursuit of Truth in Ancient Babylonia (2015), p. 218. Princeton University Press. ISBN 978-0691157184
+ Lichtheim, Miriam. "Ancient Egyptian Literature, Volume II: The New Kingdom", pp. 61 ff. University of California Press, 1976, ISBN 0-520-03615-8
+ Najovits, Simson (2004). Egypt, the Trunk of the Tree, A Modern Survey of and Ancient Land, Vol. II. p. 131. New York: Algora Publishing. ISBN 978-0-87586-256-9.
+ Assmann, Jan. Theological Responses to Amarna. Archivováno 18. 5. 2020 na Wayback Machine. Originalveröffentlichung in: Gary N. Knoppers, Antoine Hirsch (Hg.), Egypt, Israel, and the Ancient Mediterranean World. Studies in Honor of Donald B. Redford, Leiden/Boston 2004, S. 179-191
+ FRANK, Daniel; LEAMAN, Oliver. History of Jewish Philosophy. [s.l.]: Routledge, 2005-10-20. Dostupné online. ISBN 978-1-134-89435-2. (anglicky)
+ BARTHOLOMEW, Craig G.; GOHEEN, Michael W. Christian Philosophy: A Systematic and Narrative Introduction. [s.l.]: Baker Academic, 2013-10-15. Dostupné online. ISBN 978-1-4412-4471-0. (anglicky)
+ CHURTON, Tobias. Gnostic Philosophy: From Ancient Persia to Modern Times. [s.l.]: Simon and Schuster, 2005-01-25. Dostupné online. ISBN 978-1-59477-767-7. (anglicky)
+ NASR, S. H.; AMINRAZAVI, Mehdi; JOZI, M. R. An Anthology of Philosophy in Persia, Vol. 2: Ismaili Thought in the Classical Age. [s.l.]: Bloomsbury Academic, 2008-09-30. Dostupné online. ISBN 978-1-84511-542-5. (anglicky)
+ KEDDIE, Nikki R. Iran: Religion, Politics and Society: Collected Essays. [s.l.]: Routledge, 2013-10-28. Dostupné online. ISBN 978-1-136-28041-2. (anglicky)
+ DE BLOIS, François. Dualism in Iranian and Christian Traditions. Journal of the Royal Asiatic Society. 2000, s. 1–19. Dostupné online. ISSN 1356-1863. DOI 10.1017/S1356186300011913. JSTOR 25187928. S2CID 162835432. (anglicky)
+ Gutas, Dimitri (1998). Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society (2nd-4th/8th-10th centuries). Routledge. pp. 1–26.
+ Cooper, William W.; Yue, Piyu (2008). Challenges of the Muslim world: present, future and past. Emerald Group Publishing. ISBN 978-0-444-53243-5. Retrieved 2014-04-11.
+ N.V. Isaeva. Shankara and Indian Philosophy. [s.l.]: State University of New York Press, 1992. Dostupné v archivu pořízeném z originálu dne 14 January 2020. ISBN 978-0-7914-1281-7. OCLC 24953669 S. 1–5. (anglicky)
+ John Koller. Routledge Companion to Philosophy of Religion. Redakce Chad Meister and Paul Copan. [s.l.]: Routledge, 2013. ISBN 978-1-136-69685-5. DOI 10.4324/9780203813010. Kapitola Shankara. (anglicky)
+ Johnson, W. J. 2009. "darśana Archivováno 9. 3. 2021 na Wayback Machine.." Oxford Reference. From: "darśan(a) Archivováno 3. 9. 2020 na Wayback Machine.." In A Dictionary of Hinduism, edited by W. J. Johnson. Oxford: Oxford University Press. ISBN 9780191726705. DOI:10.1093/acref/9780198610250.001.0001.
+ Young. The World's Religions: Worldviews and Contemporary Issues. [s.l.]: Pearson Prentice Hall, 2005. Dostupné v archivu pořízeném z originálu dne 17 December 2019. ISBN 978-0-13-183010-3. S. 61–64, 78–79. (anglicky)
+ MITTAL, Sushil; THURSBY, Gene. Religions of India: An Introduction. [s.l.]: Taylor & Francis, 2017. Dostupné v archivu pořízeném z originálu dne 17 December 2019. ISBN 978-1-134-79193-4. S. 3–5, 15–18, 53–55, 63–67, 85–88, 93–98, 107–15. (anglicky)
+ Bowker, John. Oxford Dictionary of World Religions. S. 259.
+ Doniger, Wendy. On Hinduism. [s.l.]: Oxford University Press, 2014. Dostupné v archivu pořízeném z originálu dne 30 January 2017. ISBN 978-0-19-936008-6. S. 46. (anglicky)
+ Kesarcodi-Watson. Hindu Metaphysics and Its Philosophies: Śruti and Darsána. International Philosophical Quarterly. 1978, s. 413–432. DOI 10.5840/ipq197818440. (anglicky)
+ Chadha, M. 2015. The Routledge Handbook of Contemporary Philosophy of Religion, edited by G. Oppy. London: Routledge, ISBN 978-1844658312. pp. 127–28.
+ FRAZIER, Jessica. The Continuum companion to Hindu studies. London: Continuum, 2011. Dostupné online. ISBN 978-0-8264-9966-0. S. 1–15. (anglicky)
+ Olson, Carl. 2007. The Many Colors of Hinduism: A Thematic-historical Introduction. Rutgers University Press. ISBN 978-0813540689. pp. 101–19.
+ Deutsch, Eliot. 2000. S. 245–48 in Philosophy of Religion: Indian Philosophy 4, edited by R. Perrett. Routledge, ISBN 978-0815336112.
+ Grimes, John A. A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press. ISBN 978-0791430675. p. 238.
+ Hiltebeitel, Alf. 2007. "Hinduism." In The Religious Traditions of Asia: Religion, History, and Culture, edited by J. Kitagawa. London: Routledge.
+ Minor, Robert. 1986. Modern Indian Interpreters of the Bhagavad Gita. Albany: State University of New York Press. ISBN 0-88706-297-0. pp. 74–75, 81.
+ Doniger. Bhagavad Gita [online]. 2018 [cit. 2018-11-10]. Dostupné v archivu pořízeném z originálu dne 21 August 2018. (anglicky)
+ Cowell and Gough (1882, Translators), The Sarva-Darsana-Samgraha or Review of the Different Systems of Hindu Philosophy by Madhva Acharya, Trubner's Oriental Series
+ Bilimoria, P. 2000. Indian Philosophy, edited by R. Perrett. London: Routledge. ISBN 978-1135703226. p. 88.
+ R Bhattacharya (2011), Studies on the Carvaka/Lokayata, Anthem, ISBN 978-0857284334, pp. 53, 94, 141–142
+ Johannes Bronkhorst (2012), Free will and Indian philosophy, Antiquorum Philosophia: An International Journal, Roma Italy, Volume 6, pp. 19–30
+ James Lochtefeld, "Ajivika", The Illustrated Encyclopedia of Hinduism, Vol. 1: A–M, Rosen Publishing. ISBN 978-0823931798, p. 22
+ AL Basham (2009), History and Doctrines of the Ajivikas – a Vanished Indian Religion, Motilal Banarsidass, ISBN 978-8120812048, Chapter 1
+ K. N. Jayatilleke. 2010. Early Buddhist Theory of Knowledge, ISBN 978-8120806191. pp. 246–49, note 385 onwards.
+ Dundas, Paul. 2002. The Jains (2nd ed.). London: Routledge. ISBN 978-0415266055. pp. 1–19, 40–44.
+ Hemacandra. The Lives of the Jain Elders. [s.l.]: Oxford University Press, 1998. Dostupné v archivu pořízeném z originálu dne 23 December 2016. ISBN 978-0-19-283227-6. S. 258–60. (anglicky)
+ Tiwari. Comparative Religion. [s.l.]: Motilal Banarsidass, 1983. Dostupné v archivu pořízeném z originálu dne 24 December 2016. ISBN 978-81-208-0293-3. S. 78–83. (anglicky)
+ JAINI, Padmanabh S. The Jaina Path of Purification. [s.l.]: Motilal Banarsidass, 1998. Dostupné v archivu pořízeném z originálu dne 16 February 2020. ISBN 81-208-1578-5. S. 81–83. (anglicky)
+ Umāsvāti 1994 [c. 2nd – 5th century]. That Which Is: Tattvartha Sutra. Archivováno 6. 8. 2020 na Wayback Machine., translated by N. Tatia. Harper Collins. ISBN 978-0-06-068985-8. pp. xvii–xviii.
+ Westerhoff, Jan. 2018. The Golden Age of Indian Buddhist Philosophy. Oxford: Oxford University Press.
+ BUSWELL, Robert E. Jr.; LOPEZ, Donald S. Jr. The Princeton Dictionary of Buddhism. [s.l.]: Princeton University Press, 2013. Dostupné v archivu pořízeném z originálu dne 17 May 2020. ISBN 978-1-4008-4805-8. S. 42–47. (anglicky)
+ Dreyfus, Georges B. J. Recognizing Reality: Dharmakirti's Philosophy and Its Tibetan Interpretations (Suny Series in Buddhist Studies), 1997, p. 22.
+ JeeLoo Liu, Tian-tai Metaphysics vs. Hua-yan Metaphysics A Comparative Study
+ Garfield, Jay L., and William Edelglass, eds. 2011. "Chinese Philosophy." The Oxford Handbook of World Philosophy. Oxford: Oxford University Press. ISBN 9780195328998.
+ EBREY, Patricia. The Cambridge Illustrated History of China. New York: Cambridge University Press, 2010. S. 42. (anglicky)
+ O'BRIEN, Barbara. How Buddhism Came to China: A History of the First Thousand Years. Learn Religions. June 25, 2019. Dostupné v archivu pořízeném z originálu dne 27 January 2021. (anglicky)
+ Chinese Religions and Philosophies [online]. [cit. 2021-01-21]. Dostupné v archivu pořízeném z originálu dne 16 January 2021. (anglicky)
+ Perez, Louis G. (1998). The History of Japan, pp. 57–59. Westport, CT: Greenwood Press. ISBN 978-0-313-30296-1.
+ Janz, Bruce B. 2009. Philosophy in an African Place. Plymouth, UK: Lexington Books. S. 74–79.
+ Whiteley, Peter M. 1998. "Native American philosophy. Archivováno 6. 8. 2020 na Wayback Machine.." Routledge Encyclopedia of Philosophy. Taylor & Francis. DOI:10.4324/9780415249126-N078-1.
+ Pierotti, Raymond. 2003. "Communities as both Ecological and Social entities in Native American thought." Native American Symposium 5. Durant, OK: Southeastern Oklahoma State University. Archived from the original 4 April 2016.
+ PORTILLA, Miguel León. Use of "Tlamatini" in Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind – Miguel León Portilla. [s.l.]: [s.n.], 1990. Dostupné v archivu pořízeném z originálu dne 17 December 2019. ISBN 9780806122953. (anglicky)
+ Leonardo Esteban Figueroa Helland (2012). Indigenous Philosophy and World Politics: Cosmopolitical Contributions from across the Americas. Archivováno 18. 11. 2021 na Wayback Machine. Arizona State University.
+ Maffie, James. Why Care about Nezahualcoyotl? Veritism and Nahua Philosophy. Archivováno 18. 11. 2021 na Wayback Machine.. Philosophy of the Social Sciences, Vol. 32 No. 1, March 2002 71-91 2002 Sage Publications.
+ Internet Encyclopedia of Philosophy. Aztec Philosophy. [s.l.]: [s.n.] Dostupné v archivu pořízeném z originálu dne 25 May 2020. (anglicky)
+ Yeakel, John A. Accountant-Historians of the Incas. Archivováno 12. 11. 2021 na Wayback Machine. Accounting Historians Journal Volume 10 Issue 2 Fall 1983 Article 3 1983.
+ Adames, Hector Y.; Chavez-Dueñas, Nayeli Y. (2016) Cultural Foundations and Interventions in Latino/a Mental Health: History, Theory and within Group Differences. pp. 20-21. Routledge.
+ Maffie, James. "Pre-Columbian Philosophies", in Nuccetelli, Susana; Schutte, Ofelia; Bueno, Otávio (2013) A Companion to Latin American Philosophy, Wiley Blackwell.
+ Webb, Hillary S. 2012. Yanantin and Masintin in the Andean World: Complementary Dualism in Modern Peru.
+ PLANTINGA, Alvin. Religion and Science. Redakce Zalta Edward N.. Spring 2014. vyd. [s.l.]: [s.n.], 2014. Dostupné v archivu pořízeném z originálu dne 18 March 2019. (anglicky)
+ Epistemology [online]. [cit. 2020-06-22]. Dostupné v archivu pořízeném z originálu dne 10 July 2019. (anglicky)
+ Epistemology [online]. [cit. 2020-06-30]. Dostupné v archivu pořízeném z originálu dne 21 July 2020. (anglicky)
+ STEUP, Matthias; NETA, Ram. Epistemology [online]. Metaphysics Research Lab, Stanford University, 2020 [cit. 2021-01-21]. Dostupné v archivu pořízeném z originálu dne 20 January 2021. (anglicky)
+ Kelly, Michael (Editor in Chief) (1998) Encyclopedia of Aesthetics. New York, Oxford, Oxford University Press. 4 vol. p. ix. ISBN 978-0-19-511307-5.
+ Review. Archivováno 13. 2. 2006 na Wayback Machine. by Tom Riedel (Regis University)
+ "Aesthetic." Merriam-Webster dictionary. Retrieved 9 May 2020.
+ Zangwill, Nick. 2019 [2003]. "Aesthetic Judgment. Archivováno 2. 8. 2019 na Wayback Machine." (revised ed.). Stanford Encyclopedia of Philosophy. 9 May 2020.
+ "aesthetic. Archivováno 6. 8. 2020 na Wayback Machine.." Lexico. Oxford University Press a Dictionary.com.
+ Ethics [online]. [cit. 2020-07-06]. Dostupné v archivu pořízeném z originálu dne 18 January 2018. (anglicky)
+ Major Ethical Perspectives [online]. [cit. 2021-01-21]. Dostupné v archivu pořízeném z originálu dne 21 January 2021. (anglicky)
+ Louth, Andrew a Helmut Thielicke. 2014 [1999]. "Relationship to Philosophy | Theology Archivováno 6. 8. 2020 na Wayback Machine.." Encyclopædia Britannica.
+ ALINA, Bradford. Deductive Reasoning vs. Inductive Reasoning. livescience.com. July 2017. Dostupné v archivu pořízeném z originálu dne 28 January 2021. (anglicky)
+ CARNAP, Rudolf. Inductive Logic and Science. Proceedings of the American Academy of Arts and Sciences. 1953, s. 189–197. DOI 10.2307/20023651. JSTOR 20023651. (anglicky)
+ Charles L. Griswold Jr. Platonic Writings/Platonic Readings. [s.l.]: Penn State Press, 2010. Dostupné v archivu pořízeném z originálu dne 1 July 2020. ISBN 978-0271044811. S. 144–146. (anglicky)
+ Martin Heidegger. Was Ist Das – die Philosophie?. [s.l.]: Rowman & Littlefield, 1956. Dostupné v archivu pořízeném z originálu dne 12 August 2021. ISBN 978-0808403197. S. 21. (anglicky)
+ VAN INWAGEN, Peter; SULLIVAN, Meghan. Metaphysics. The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, 2020. Dostupné v archivu pořízeném z originálu dne 16 September 2018. (anglicky)
+ SCHROEDER, Mark. The Stanford Encyclopedia of Philosophy. Value Theory. Redakce Zalta Edward N.. Spring 2021. vyd. [s.l.]: Metaphysics Research Lab, Stanford University, 2021. Dostupné v archivu pořízeném z originálu dne 31 March 2021. (anglicky)
+ KANT, Immanuel. Kant: Groundwork of the Metaphysics of Morals. 2nd. vyd. [s.l.]: Cambridge University Press, 2012. Dostupné online. ISBN 9781107401068. (anglicky)
+ DEL SOLDATO, Eva. Natural Philosophy in the Renaissance [online]. Metaphysics Research Lab, Stanford University, 2020 [cit. 2021-01-21]. Dostupné v archivu pořízeném z originálu dne 27 November 2020. (anglicky)
+ Moral Philosophy [online]. [cit. 2021-01-21]. Dostupné v archivu pořízeném z originálu dne 27 November 2020. (anglicky)
+ Sextus Empiricus, Against the Logicians, Book I, Section 16
+ Cicero, Academica Book I Section 1.
+ Lindberg 2007, s. 3.
+ MCKEON, R. New Catholic Encyclopedia. [s.l.]: [s.n.] Dostupné v archivu pořízeném z originálu dne 30 April 2022. Kapitola Methodology (Philosophy). (anglicky)
+ OVERGAARD, Søren; D’ORO, Giuseppina. The Cambridge Companion to Philosophical Methodology. [s.l.]: Cambridge University Press, 2017. Dostupné v archivu pořízeném z originálu dne 1 May 2022. ISBN 978-1-107-54736-0. Kapitola Introduction, s. 1–10. (anglicky)
+ Enzyklopädie Philosophie. Redakce Sandkühler Hans Jörg. [s.l.]: Meiner, 2010. Dostupné v archivu pořízeném z originálu dne 20 March 2022. Kapitola Methode/Methodologie. (anglicky)
+ DALY, Christopher. An Introduction to Philosophical Methods. [s.l.]: Broadview Press, 20 July 2010. Dostupné v archivu pořízeném z originálu dne 30 July 2022. ISBN 978-1-55111-934-2. Kapitola Introduction. (anglicky)
+ WILLIAMSON, Timothy. 1. Introduction. [s.l.]: Oxford University Press, 2020. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISBN 978-0-19-184724-0. (anglicky)
+ ICHIKAWA, Jonathan. Chris Daly: An Introduction to Philosophical Methods [online]. [cit. 2022-02-22]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ NADO, Jennifer. How To Think About Philosophical Methodology. Journal of Indian Council of Philosophical Research. 1 September 2017, s. 447–463. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISSN 2363-9962. DOI 10.1007/s40961-017-0116-8. S2CID 171569977. (anglicky)
+ CAPPELEN, Herman; GENDLER, Tamar Szabó; HAWTHORNE, John. The Oxford Handbook of Philosophical Methodology. [s.l.]: [s.n.], 19 May 2016. Dostupné v archivu pořízeném z originálu dne 5 December 2020. ISBN 978-0-19-966877-9. DOI 10.1093/oxfordhb/9780199668779.013.34. Kapitola Preface. (anglicky)
+ DEVER, Josh. The Oxford Handbook of Philosophical Methodology. Redakce Cappelen Herman. [s.l.]: [s.n.], 19 May 2016. Dostupné v archivu pořízeném z originálu dne 5 December 2020. ISBN 978-0-19-966877-9. DOI 10.1093/oxfordhb/9780199668779.013.34. Kapitola What is Philosophical Methodology?. (anglicky)
+ DALY, Chris. The Palgrave Handbook of Philosophical Methods. [s.l.]: Palgrave Macmillan UK, 2015. Dostupné v archivu pořízeném z originálu dne 1 May 2022. ISBN 978-1-137-34455-7. DOI 10.1057/9781137344557_1. Kapitola Introduction and Historical Overview, s. 1–30. (anglicky)
+ HORWICH, Paul. The Oxford Handbook of Philosophical Methodology. Redakce Cappelen Herman. [s.l.]: Oxford, 19 May 2016. Dostupné v archivu pořízeném z originálu dne 5 December 2020. ISBN 978-0-19-966877-9. DOI 10.1093/oxfordhb/9780199668779.013.35. Kapitola Wittgenstein's Global Deflationism. (anglicky)
+ MALACHOWSKI, Alan. Methodological scepticism, metaphysics and meaning. International Journal of Philosophical Studies. 1 September 1993, s. 302–312. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISSN 0967-2559. DOI 10.1080/09672559308570774. (anglicky)
+ GOLDENBAUM, Ursula. Geometrical Method [online]. [cit. 2022-02-17]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ NADLER, Steven. Spinoza's 'Ethics': An Introduction. [s.l.]: Cambridge University Press, 2006. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISBN 978-0-521-83620-3. Kapitola The geometric method, s. 35–51. (anglicky)
+ COGAN, John. Phenomenological Reduction, The [online]. [cit. 2022-02-27]. Dostupné v archivu pořízeném z originálu dne 4 April 2020. (anglicky)
+ EDER, Anna-Maria A.; LAWLER, Insa; VAN RIEL, Raphael. Philosophical methods under scrutiny: introduction to the special issue philosophical methods. Synthese. 1 March 2020, s. 915–923. Dostupné v archivu pořízeném z originálu dne 30 April 2022. ISSN 1573-0964. DOI 10.1007/s11229-018-02051-2. S2CID 54631297. (anglicky)
+ REYNOLDS, JACK. Common Sense and Philosophical Methodology: Some Metaphilosophical Reflections on Analytic Philosophy and Deleuze. The Philosophical Forum. 4 August 2010, s. 231–258. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISSN 0031-806X. DOI 10.1111/j.1467-9191.2010.00361.x. (anglicky)
+ philosophy of common sense [online]. [cit. 2022-02-27]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ PARKER-RYAN, Sally. Ordinary Language Philosophy [online]. [cit. 2022-02-28]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ ordinary language analysis [online]. [cit. 2022-02-28]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ Intuitionism (ethics) [online]. [cit. 2022-02-28]. Dostupné v archivu pořízeném z originálu dne 7 March 2022. (anglicky)
+ BROWN, James Robert; FEHIGE, Yiftach. Thought Experiments [online]. Metaphysics Research Lab, Stanford University, 2019 [cit. 2021-10-29]. Dostupné v archivu pořízeném z originálu dne 21 November 2017. (anglicky)
+ GOFFI, Jean-Yves; ROUX, Sophie. On the Very Idea of a Thought Experiment. Thought Experiments in Methodological and Historical Contexts. Brill, 2011. Dostupné v archivu pořízeném z originálu dne 30 October 2021. (anglicky)
+ DANIELS, Norman. Reflective Equilibrium [online]. Metaphysics Research Lab, Stanford University, 2020 [cit. 2022-02-28]. Dostupné v archivu pořízeném z originálu dne 22 February 2022. (anglicky)
+ LITTLE, Daniel. Reflective Equilibrium and Justification. Southern Journal of Philosophy. 1984, s. 373–387. Dostupné v archivu pořízeném z originálu dne 1 May 2022. DOI 10.1111/j.2041-6962.1984.tb00354.x. (anglicky)
+ MCDERMID, Douglas. Pragmatism [online]. [cit. 2022-02-22]. Dostupné v archivu pořízeném z originálu dne 23 May 2019. (anglicky)
+ BAWDEN, H. Heath. What is Pragmatism?. The Journal of Philosophy, Psychology and Scientific Methods. 1904, s. 421–427. Dostupné v archivu pořízeném z originálu dne 7 March 2022. ISSN 0160-9335. DOI 10.2307/2011902. JSTOR 2011902. (anglicky)
+ MCGINN, Colin. Problems in Philosophy: The Limits of Inquiry. 1st. vyd. [s.l.]: Wiley-Blackwell, 1993. Dostupné online. ISBN 978-1-55786-475-8. (anglicky)
+ Ojzerman 1975, s. 7.
+ Ojzerman 1975, s. 153.
+ Ojzerman 1975, s. 15.
+ Platón,Theaitétos, 155d
+ Aristotelés, Metafysika, 982b
+ Aristotelés, Politika, 1267a
+ Cicero, Disp. Tusculanae II. 5. 13.
+ Thomas de Akvino: De coelo et mundo, commentarius. I, 22. Opuscula 41, in: Opera omnia, Parma 1865, tom. 19, p. 36.
+ Descartes, Les Principes de la philosophie, předmluva.
+ Kant, Kritika čistého rozumu, A 509
+ Hegel, Základy filosofie práva. Praha 1992, str. 31
+ F. Nietzsche, Antikrist, § 55
+ Charles Péguy, Cahiers de la Quinzaine (1914)
+ L. Wittgenstein, Tractatus logico-philosophicus, 4.112
+Literatura
+Slovníky a příručky
+Durozoi – Roussel: Filozofický slovník. Praha 1994. ISBN 80-85764-07-5.
+Filosofický slovník. FIN Olomouc 1998. ISBN 80-7182-064-4.
+Brugger, W.: Filosofický slovník. Praha 1994. ISBN 80-206-0409-X.
+Störig, H.-J.: Malé dějiny filosofie. Praha 1995. ISBN 80-7113-175-X.
+Nicola, Ubaldo: Obrazové dějiny filozofie. Praha 2006. ISBN 80-242-1578-0.
+Tretera, I.: Nástin dějin evropského myšlení: od Thaléta k Rousseauovi. Praha 1999. ISBN 80-7185-243-0.
+Literatura k úvodu
+(od nejpřístupnější k náročnější)
+
+Encyklopedický atlas filosofie. NLN Praha 2001. ISBN 80-7106-339-8.
+Anzenbacher, A.: Úvod do filosofie. Praha 2004. ISBN 80-7178-804-X.
+Deleuze – Guattari: Co je filosofie? Praha 2001. ISBN 80-7298-030-0.
+Fiala, J.: Analytická filosofie 1 – Úvod. Plzeň 2005. ISBN 80-239-7106-9
+Jaspers, K.: Úvod do filosofie. Praha 1996. ISBN 80-86005-05-4.
+Law, S.: Filozofická gymnastika. Praha 2007. ISBN 978-80-7203-882-4
+OJZERMAN, Teodor Il'jič, 1975. Hlavní filosofické směry : teoretická analýza historicko-filosofického procesu (původním názvem: Glavnyje filosofskije napravlenija). Překlad z ruského originálu: Jarmila Oborská (část I) a Božena Sodomková (část II); ilustrace obálku navrhl a graficky upravil Leo Novotný. 1. vyd. Praha: Svoboda. 348 s. (Filosofie a současnost; sv. 25).
+Peregrin, J.: Kapitoly z analytické filosofie. Filosofia, Praha 2005. ISBN 80-7007-207-5.
+Petříček, M.: Úvod do (současné) filosofie. Praha 1997.
+Sokol, J.: Malá filosofie člověka. Slovník filosofických pojmů. Praha 2004. ISBN 80-7021-713-8.
+Související články
+Seznam filozofů
+Seznam politických filozofů
+Externí odkazy
+Logo Wikimedia Commons Obrázky, zvuky či videa k tématu filozofie na Wikimedia Commons
+ Slovníkové heslo filozofie ve Wikislovníku
+ Téma Filosofie ve Wikicitátech
+ Téma Filosof ve Wikicitátech
+Seznam děl v Souborném katalogu ČR, jejichž tématem je Filozofie
+Slovníky
+Stanford Encyclopedia of Philosophy (anglicky)
+Internet Encyclopedia of Philosophy (anglicky)
+Rudolf Eisler: Wörterbuch der philosophischen Begriffe (1904) (německy)
+F. Kirchner: Wörterbuch philosophischer Grundbegriffe (německy)
+Filosofické encyklopedie a jiné zdroje (slovensky)
+Dějiny filozofie
+Karl Vorländer, Geschichte der Philosophie (1902) – de
+Texty ke stažení
+Project Gutenberg: Klasická literatura (anglicky)
+Gallica, knihovna elektronických textů (francouzsky)
+Perseus Antická literatura (Tufts University) (anglicky, řecky, francouzsky)
+Antika, patristika, středověk (Georgetown University) (anglicky, latinsky)
+Humanitní a společenské vědy
+Humanitní vědy
+Antropologie • Archeologie • Estetika • Etnografie • Filologie • Filozofie • Historiografie • Lingvistika • Literární věda • Religionistika
+Společenské vědy
+Ekonomie • Geografie (Socioekonomická geografie • Regionalistika) • Politologie (Mezinárodní vztahy • Politická ekonomie • Veřejná správa) • Psychologie • Sociologie (Demografie • Kulturologie • Kriminologie)
+Multidisciplinární
+Teritoriální studia • Vzdělání • Informační věda • Gerontologie • Genderová studia • Management • Mediální studia • Veřejné zdraví
+Autoritní data Editovat na Wikidatech
+NKC: ph114540PSH: 2596BNE: XX525257BNF: cb119368422 (data)GND: 4045791-6LCCN: sh85100849LNB: 000048176NARA: 10642509NDL: 00572945NLI: 987007541265005171NLK: KSH1998000547
+Portály: Filozofie
+Kategorie: Filozofie
+Stránka byla naposledy editována 27. 2. 2024 v 12:31.
+Text je dostupný pod licencí Creative Commons Uveďte původ – Zachovejte licenci, případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.
+Ochrana osobních údajůO WikipediiVyloučení odpovědnostiKontaktujte WikipediiKodex chováníVývojářiStatistikyProhlášení o cookiesMobilní verzeWikimedia FoundationPowered by MediaWiki
+Přepnout omezenou šířku obsahu
